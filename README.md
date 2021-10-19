@@ -24,7 +24,7 @@ Luís Mariano
 Skills: 
   
   Python
-    (most data analysis
+    (experienced in most data analysis
     and data vizualization modules,
     also exploring machine learning with
       Tensorflow and 
