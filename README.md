@@ -29,6 +29,9 @@ Skills:
     also exploring machine learning with
       Tensorflow and 
       PyTorch) 
+  
   R
+  
   EViews
+  
   Scala
